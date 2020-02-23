@@ -1,0 +1,10 @@
+.title {
+  @apply text-4xl 
+    mx-auto 
+    max-w-4xl;
+  color: #333;
+}
+
+.header {
+  @apply p-6 shadow-lg mb-4;
+}
